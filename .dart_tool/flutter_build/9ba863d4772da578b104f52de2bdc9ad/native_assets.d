@@ -1,0 +1,1 @@
+ /Users/neftyanik/flutter/projects\ for\ flutter/Serega/Flutter_pr6/.dart_tool/flutter_build/9ba863d4772da578b104f52de2bdc9ad/native_assets.yaml: 
